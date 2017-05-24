@@ -25,6 +25,7 @@
   * [Using yarn](https://yarnpkg.com/en/docs/usage)
   * [yarn vs npm](https://www.sitepoint.com/yarn-vs-npm/)
   * [webpack basic concept](https://webpack.js.org/#write-your-code)
+  * [webpack survivejs book](https://survivejs.com/webpack/introduction/)
   * [webpack Docs](https://webpack.js.org/configuration/)
   * [Getting started with Grunt](https://gruntjs.com/getting-started)
 
