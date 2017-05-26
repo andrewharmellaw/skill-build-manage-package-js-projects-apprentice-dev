@@ -1,4 +1,4 @@
-# SKILL: Building, managing and packaging JavaScript projects (Apprentice Developer)
+# SKILL: Building, Managing and Packaging JavaScript Projects (Apprentice Developer)
 
 ## [PRE-REQUISITES]
 
